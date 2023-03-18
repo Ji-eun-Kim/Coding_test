@@ -1,2 +1,2 @@
 # Coding_test
-Coding_test 연습
+매일 푸는 Coding_test 연습 공간
